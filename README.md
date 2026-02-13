@@ -2,7 +2,7 @@
 - Aspiring Web Developer with a strong interest in building efficient , scalable, and user-friendly applications.
 - I’m interested in:
 - Web Development
-- Python & Java Programming
+- Python & Java Programming(basics)
 - Problem Solving & Data Structures
 - Open Source Contributions
 - I’m currently learning:
